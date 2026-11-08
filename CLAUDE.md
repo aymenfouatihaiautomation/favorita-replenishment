@@ -27,3 +27,4 @@ vs. the current rule.
 - Before any git commit: show `git status`, wait for my OK.
 - Files I write myself (do not write them, only review if I ask):
   src/features.py, src/backtest.py, src/simulate.py
+- The project plan is docs/M1_PLAN.md. Work on one step at a time, in order.
